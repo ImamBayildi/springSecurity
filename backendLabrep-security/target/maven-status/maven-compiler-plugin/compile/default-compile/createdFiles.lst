@@ -1,0 +1,9 @@
+com\labreport\backendlabrep\repository\technicianRepository.class
+com\labreport\backendlabrep\service\technicianService.class
+com\labreport\backendlabrep\entity\reports.class
+com\labreport\backendlabrep\repository\repository.class
+com\labreport\backendlabrep\BackendlabrepApplication.class
+com\labreport\backendlabrep\controller\technicianController.class
+com\labreport\backendlabrep\service\service.class
+com\labreport\backendlabrep\controller\reportController.class
+com\labreport\backendlabrep\entity\labTechnician.class
